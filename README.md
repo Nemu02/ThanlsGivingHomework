@@ -4,7 +4,8 @@
 
 *Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
 
- # 6 Different Component HomeWork 
+ # 6 Different Component HomeWork
+ **Neum Vento**
 
  >> Alignment
  >> Toggle Hide/Show
