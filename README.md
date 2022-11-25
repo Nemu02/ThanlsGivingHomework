@@ -6,9 +6,9 @@
 
  # 6 Different Component HomeWork 
 
- > Alignment
- > Toggle Hide/Show
- > Counter Up/Down
- > Increase/Decrease Font-Size by Increments
- > Change Color/Text
- > Hide/Shoe Time
+ >> Alignment
+ >> Toggle Hide/Show
+ >> Counter Up/Down
+ >> Increase/Decrease Font-Size by Increments
+ >> Change Color/Text
+ >> Hide/Shoe Time
